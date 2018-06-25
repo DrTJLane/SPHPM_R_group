@@ -62,7 +62,7 @@ STATA
 R
 * Something new 
 * Something fancy
-* something pretty
+* Something pretty
 
 
 Reproducibility
@@ -75,7 +75,7 @@ Reproducibility
 * <div style="color:black ;font-size: 130%"> Reproducibility</div>
 
 <div class="footer" style="margin-top:-140px;font-size:120%;" align="centre">
-Make sure every step of yor analysis is 'reproducible'!</div>
+Make sure every step of yor analysis is 'reproducable'!</div>
 
 Reproducibility
 ========================================================
@@ -176,7 +176,7 @@ House keeping
 * Install R and Rstudio
 * Install package: knit,ggplot2, dplyr, tidyr
 * Download Github study material from: https://github.com/CarolineXGao/SPHPM_R_group (use the Clone or download button).
-* There are some additional study materials provided in Part 1 (coursea video lectures, swirl etc) feel free to get started before next week
+* There are some additional study materials provided in Part 1 (Coursera video lectures, swirl, etc.) feel free to get started before next week
 
 
 
